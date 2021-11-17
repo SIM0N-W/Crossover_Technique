@@ -10,6 +10,4 @@ The purpose was to interrogate the degree of nerve cross-over. Ranging from natu
 
  - Included is the standalone Plotable installations for Windows and MacOS.
 
- - Additionally, a web-based Plotable is also accessible for convinience.
-
  - The original code for the "Plotable", can be found in the Plotable Folder --> "Plotable.mlapp" (Open with MATLAB App Desinger).
