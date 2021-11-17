@@ -1,7 +1,7 @@
 # Crossover_Technique
-
-![Nerve Cross-Over Image v8](https://user-images.githubusercontent.com/76114144/142266780-926358f2-1c51-4b01-878f-d7a03e4e2d58.png)
-
+<p align="center">
+ <img src=https://user-images.githubusercontent.com/76114144/142266780-926358f2-1c51-4b01-878f-d7a03e4e2d58.png />
+</p>
 
 Cross-over Technique Paper
 
