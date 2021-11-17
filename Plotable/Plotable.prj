@@ -1,0 +1,83 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration file="/Users/simonwu/OneDrive - ualberta.ca/Masters of Neuroscience/Cross-over Technique Paper/Cross Over Technique Program/GitHub/Crossover_Technique/Plotable/Plotable.prj" location="/Users/simonwu/OneDrive - ualberta.ca/Masters of Neuroscience/Cross-over Technique Paper/Cross Over Technique Program/GitHub/Crossover_Technique/Plotable" name="Plotable" target="target.mlapps" target-name="Package App">
+    <param.appname>Plotable</param.appname>
+    <param.authnamewatermark>Simon W.</param.authnamewatermark>
+    <param.email />
+    <param.company />
+    <param.icon />
+    <param.icons />
+    <param.summary>Co-Written with Dr. Ming Chan
+
+University of Alberta
+
+2021 Chan Lab™</param.summary>
+    <param.description>A program that will help users (clinicians, researchers, and electromyographers), to perform geometric nerve conduction waveforms subtractions with ease.
+
+The purpose was to interrogate the degree of nerve cross-over. Ranging from natural (Martin-Gruber Anastomosis) or artifical (Nerve Transfers) nerve cross-over applications.</param.description>
+    <param.screenshot>/private/var/folders/r4/zp4j5xlx3r7_yp1nt76_3g380000gn/T/tp4c3c3208_f0fe_4510_889a_7253a524e02e.png</param.screenshot>
+    <param.version>2.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>a098bb1a-a706-40a2-a719-85b16c5d672c</param.guid>
+    <unset>
+      <param.email />
+      <param.company />
+      <param.icon />
+      <param.icons />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}/Plotable.mlapp</file>
+    </fileset.main>
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}/Analyze Icon.png</file>
+      <file>${PROJECT_ROOT}/Blue.png</file>
+      <file>${PROJECT_ROOT}/Orange.png</file>
+      <file>${PROJECT_ROOT}/Pink.png</file>
+      <file>${PROJECT_ROOT}/Plot Icon.png</file>
+      <file>${PROJECT_ROOT}/Purple.png</file>
+      <file>${PROJECT_ROOT}/Reset Icon.jpg</file>
+      <file>${PROJECT_ROOT}/Select Icon.png</file>
+      <file>${PROJECT_ROOT}/axoload.m</file>
+    </fileset.depfun>
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="/Users/simonwu/OneDrive - ualberta.ca/Masters of Neuroscience/Cross-over Technique Paper/Cross Over Technique Program/GitHub/Crossover_Technique" name="Plotable" optional="false">/Users/simonwu/OneDrive - ualberta.ca/Masters of Neuroscience/Cross-over Technique Paper/Cross Over Technique Program/GitHub/Crossover_Technique/Plotable</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>/Applications/MATLAB_R2020b.app</root>
+      <toolboxes>
+        <toolbox name="matlabcoder" />
+      </toolboxes>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>true</unix>
+      <mac>true</mac>
+      <windows>false</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.16</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>maci64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
