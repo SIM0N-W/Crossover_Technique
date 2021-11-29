@@ -14,12 +14,14 @@ The purpose was to interrogate the degree of nerve cross-over. Ranging from natu
 
 #### A)	Have MATLAB 
 
->   **1)**	Install **Plotable.mlappinstall** as a MATLAB App under the “Apps” tab in MATLAB.<br/>
+>   **1)**	Install **Plotable - MATLAB.mlappinstall** as a MATLAB App under the “Apps” tab in MATLAB.<br/>
 >   **2)**	Open the development version: **Plotable.mlapp** (*Development Folder*) 
 
 #### B)	Do not have MATLAB
 
->   **3)**	Install Plotable as a standalone app in the provided installation folders for Windows and MacOS.
+>   **3)**	Install Plotable as a standalone app in the provided files for Windows and MacOS.<br/>
+> **Plotable Installer - Windows**<br/>
+> **Plotable Installer - MacOS**<br/>
 
 <br/>
 
