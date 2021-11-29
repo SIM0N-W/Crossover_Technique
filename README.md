@@ -9,7 +9,7 @@ The program we designed will help users (clinicians, researchers, and electromyo
 The purpose was to interrogate the degree of nerve cross-over. Ranging from natural (Martin-Gruber Anastomosis) or artifical (Nerve Transfers) nerve cross-over applications.
 
 ## I. Accessing Plotable
-
+*Download the files by pressing the "Code" (green) button, then "Download ZIP"*<br/>
 ***One can open the program one of three ways:***
 
 #### A)	Have MATLAB 
