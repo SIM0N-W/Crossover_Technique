@@ -11,6 +11,8 @@ The purpose was to interrogate the degree of nerve cross-over. Ranging from natu
 ## I. Accessing Plotable
 
 ### Download the files by pressing the "Code" (green) button, then "Download ZIP"<br/>
+#### For a video guide to installing Plotable, visit:<br/>
+
 ***One can open the program one of three ways:***
 
 #### A)	Have MATLAB 
