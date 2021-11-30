@@ -31,6 +31,8 @@ The purpose was to interrogate the degree of nerve cross-over. Ranging from natu
 The original code for the Plotable can be found in the - *Development Folder* --> **Plotable.mlapp**.<br/>
 >Open with *MATLAB App Designer* and enter "code view".
 
+## Sample Waveforms for Hypothenar and FDI are included for testing.
+
 ## II. Using Plotable
 
 *(“” — quotations refer to an element found in the program.)*
